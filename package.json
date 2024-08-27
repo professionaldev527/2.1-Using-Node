@@ -1,4 +1,14 @@
 {
-  "name": "2.1-Using-Node",
-  "main": "index.js"
+  "name": "2.1-using-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
 }
